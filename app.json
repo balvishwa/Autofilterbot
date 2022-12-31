@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://t.me/file_thumbnail_bot",
-    "repository": "https://github.com/nikhivishwa/Autofilterbot",
+    "website": "https://t.me/MdiskDisneyStudiobot",
+    "repository": "https://github.com/iknilce/Autofilterbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
